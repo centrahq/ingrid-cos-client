@@ -25,7 +25,7 @@
  * Do not edit the class manually.
  */
 
-namespace COS\Swagger\API;
+namespace COS\Swagger\Api;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
